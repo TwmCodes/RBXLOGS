@@ -1,2 +1,3 @@
-# RBXLOGS
-This is a free tool you can use to get roblox server's IP's and Port's so you can crash servers ;)
+You need to download python to use this tool
+
+(https://www.python.org/downloads/)
